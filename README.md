@@ -6,7 +6,7 @@ The transformer was chosen because some columns had a very high variance but aft
 # Process
 
 ## Data Origin
-The data is a hybrid of three Kraggle data sets:
+The data is a hybrid of two Kraggle data sets:
 
 - [Last 120 Years of Bowl Games](https://www.kaggle.com/datasets/mattop/college-football-bowl-games-1902-2022)
 - [Last 8 Years of Historical Team Data](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code?resource=download&select=cfb21.csv)
