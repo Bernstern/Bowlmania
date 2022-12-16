@@ -3,6 +3,13 @@ This is trying to absolutely clown some geezers in a bowl pickem. After much del
 
 The transformer was chosen because some columns had a very high variance but after doing PCA there weren't many columns with high correlation. The GNBC was chosen because it is tolerant of high variance, is somewhat resistant to overfitting, and is stupid easy to implement. Not to mention performed higher than a shallow nerual network, deep neural network, random forest, and some other fanciness I played around with. 
 
+# Contributors
+
+I would like to aknowledge two of my friends and peers who helped me with this project.
+
+- [ezipe](https://github.com/ezipe)
+- [RyanD893](https://github.com/RyanD893)
+
 # Process
 
 ## Data Origin
