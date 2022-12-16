@@ -2,10 +2,10 @@
 import csv
 conent = []
 
-with open('data/cfb21.csv', 'r') as f:
+with open('data/cfb22.csv', 'r') as f:
     reader = f.readlines()
     for row in reader:
-        # Prepend a quote to the row
+        # # Prepend a quote to the row
         row = '"' + row
 
         # Put a quote before the first comma
@@ -13,6 +13,6 @@ with open('data/cfb21.csv', 'r') as f:
 
         conent.append(row)
 print(conent)
-with open('data/cfb21.csv', 'w') as f:
+with open('data/cfb22.csv', 'w') as f:
     f.write("".join(conent))
 
