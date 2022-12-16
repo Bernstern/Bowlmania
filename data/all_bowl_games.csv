@@ -1,0 +1,318 @@
+id,year,day,winner_tie,winner_rank,winner_points,loser_tie,loser_rank,loser_points,attendance,mvp,sponsor,bowl_name
+1,2021,Wed,Oklahoma,14.0,47,Oregon,15.0,32,59121.0,"Oklahoma RB Kennedy Brooks, Oklahoma S Pat Fields",Valero,Alamo Bowl
+2,2020,Tue,Texas,20.0,55,Colorado,,23,10822.0,"Texas RB Bijan Robinson, Texas LB DeMarvion Overshown",Valero,Alamo Bowl
+3,2019,Tue,Texas,,38,Utah,12.0,10,60147.0,"Texas QB Sam Ehlinger, Texas LB Joseph Ossai",Valero,Alamo Bowl
+4,2018,Fri,Washington State,12.0,28,Iowa State,25.0,26,60675.0,"Washington State QB Gardner Minshew, Washington State LB Peyton Pelluer",Valero,Alamo Bowl
+5,2017,Thu,Texas Christian,13.0,39,Stanford,15.0,37,57653.0,"TCU QB Kenny Hill, TCU LB Travin Howard",Valero,Alamo Bowl
+6,2016,Thu,Oklahoma State,13.0,38,Colorado,11.0,8,59815.0,"OSU WR James Washington, OSU DT Vincent Taylor",Valero,Alamo Bowl
+7,2015,Sat,Texas Christian,11.0,47,Oregon,15.0,41,64569.0,"TCU QB Brian Kohlhausen, TCU S Travin Howard",Valero,Alamo Bowl
+8,2014,Fri,UCLA,14.0,40,Kansas State,11.0,35,60517.0,"RB Paul Perkins (UCLA), LB Eric Kendricks (UCLA)",Valero,Alamo Bowl
+9,2013,Mon,Oregon,10.0,30,Texas,,7,65918.0,"QB Marcus Mariota (Oregon), SS Avery Patterson (Oregon)",Valero Energy Corporation,Alamo Bowl
+30,2021,Wed,Army,,24,Missouri,,22,34888.0,"Missouri QB Brady Cook, Army LB Arik Smith",Lockheed Martin,Armed Forces Bowl
+31,2020,Thu,Mississippi State,,28,Tulsa,22.0,26,9000.0,"Mississippi State WR Lideatrick Griffin, Tulsa DB Christian Williams",Lockheed Martin,Armed Forces Bowl
+33,2018,Sat,Army,22.0,70,Houston,,14,44738.0,"Army QB Kelvin Hopkins, Houston TE Romello Brooker",Lockhee Martin,Armed Forces Bowl
+34,2017,Sat,Army,,42,San Diego State,,35,35986.0,"Army QB Ahmad Bradshaw, San Diego State RB Rashaad Perry",Lockheed Martin,Armed Forces Bowl
+35,2016,Fri,Louisiana Tech,,48,Navy,,45,40542.0,"Lousiana Tech WR Trent Taylor, Navy QB Zach Abey",Lockheed Martin,Armed Forces Bowl
+37,2014,Fri,Houston,,35,Pittsburgh,,34,37888.0,"RB Kenneth Farrow (Houston), QB Chad Voytik (Pitt)",Lockheed Martin,Armed Forces Bowl
+38,2013,Mon,Navy,,24,Middle Tennessee State,,6,39246.0,"QB Keenan Reynolds (Navy), LB T.T. Barber (Middle Tennessee)",Bell Helicopter,Armed Forces Bowl
+49,2021,Fri,Middle Tennessee State,,31,Toledo,,24,13596.0,"MTSU QB Nicholas Vattiato, MTSU LB DQ Thomas",,Bahamas Bowl
+50,2019,Fri,Buffalo,,31,Charlotte,,9,13547.0,"Buffalo RB Jaret Patterson, Buffalo DE Malcolm Koonce",Makers Wanted,Bahamas Bowl
+51,2018,Fri,Florida International,,35,Toledo,,32,13510.0,"FIU QB Christian Alexander, FIU LB Edwin Freeman",Makers Wanted,Bahamas Bowl
+52,2017,Fri,Ohio,,41,Alabama-Birmingham,,6,13585.0,"Ohio RB Dorian Brown, Ohio FS Javon Hagan",,Bahamas Bowl
+53,2016,Fri,Old Dominion,,24,Eastern Michigan,,20,13422.0,"Old Dominion RB Ray Lawry, Old Dominion LB T.J. Ricks",Popeyes,Bahamas Bowl
+54,2015,Thu,Western Michigan,,45,Middle Tennessee State,,31,13123.0,"Western Michigan RB Jamauri Bogan, Western Michigan LB Grant DePalma",Popeyes,Bahamas Bowl
+55,2014,Wed,Western Kentucky,,49,Central Michigan,,48,13667.0,"QB Brandon Doughty (Western Kentucky), DL Derik Overstreet (Western Kentucky)",Popeyes,Bahamas Bowl
+56,2021,Thu,Central Florida,,29,Florida,,17,63669.0,UCF WR Ryan O'Keefe,Union Home Mortgage,Union Home Mortgage Gasparilla Bowl
+57,2019,Mon,Central Florida,,48,Marshall,,25,28987.0,Central Florida QB Dillon Gabriel,Gasparilla Bowl,Union Home Mortgage Gasparilla Bowl
+58,2018,Thu,Marshall,,38,South Florida,,20,14135.0,Marshall RB Keion Davis,Bad Boy Mowers,Union Home Mortgage Gasparilla Bowl
+59,2017,Thu,Temple,,28,Florida International,,3,16363.0,Temple QB Frank Nutile,Bad Boy Mowers,Union Home Mortgage Gasparilla Bowl
+60,2016,Mon,Mississippi State,,17,Miami,,16,15717.0,MSU QB Nick Fitzgerald,,Union Home Mortgage Gasparilla Bowl
+61,2015,Sat,Marshall,,16,Connecticut,,10,14652.0,Marshall WR Deandre Reaves,,Union Home Mortgage Gasparilla Bowl
+62,2014,Fri,North Carolina State,,34,Central Florida,,27,26675.0,QB Jacoby Brissett (N.C. State),Bitcoin,Union Home Mortgage Gasparilla Bowl
+63,2013,Mon,East Carolina,,37,Ohio,,20,20053.0,RB Vintavious Cooper (East Carolina),Beef 'O'Brady's,Union Home Mortgage Gasparilla Bowl
+69,2021,Tue,Houston,21.0,17,Auburn,,13,47100.0,Houston QB Clayton Tune,TicketSmarter,Birmingham Bowl
+70,2019,Thu,Cincinnati,23.0,38,Boston College,,6,27193.0,Cincinnati QB Desmond Ridder,TicketSmarter,Birmingham Bowl
+71,2018,Sat,Wake Forest,,37,Memphis,,34,25717.0,Wake Forest QB Jamie Newman,Jared,Birmingham Bowl
+72,2017,Sat,South Florida,23.0,38,Texas Tech,,34,28623.0,South Florida QB Quinton Flowers,,Birmingham Bowl
+73,2016,Thu,South Florida,25.0,46,South Carolina,,39,31229.0,USF QB Quinton Flowers,,Birmingham Bowl
+74,2015,Wed,Auburn,,31,Memphis,,10,59430.0,Auburn RB Jovon Robinson,,Birmingham Bowl
+75,2014,Sat,Florida,,28,East Carolina,,20,30083.0,RB Adam Lane (Florida),,Birmingham Bowl
+76,2013,Sat,Vanderbilt,,41,Houston,,24,42717.0,WR Jordan Matthews (Vanderbilt),BBVA Compass,Birmingham Bowl
+84,2021,Sat,Western Kentucky,,59,Appalachian State,,38,15429.0,"WKU QB Bailey Zappe, WKU DB Antwon Kincaid,, WKU P John Haggerty III",RoofClaim,Boca Raton Bowl
+85,2020,Tue,Brigham Young,13.0,49,Central Florida,,23,6000.0,"BYU QB Zach Wilson, BYU LB Keenan Pili, BYU KR Caleb Christensen",RoofClaim,Boca Raton Bowl
+86,2019,Sat,Florida Atlantic,,52,Southern Methodist,,28,23187.0,"FAU QB Chris Robison, FAU CB Rashad Smith, FAU P Matt Hayball",Cheribundi,Boca Raton Bowl
+87,2018,Tue,Alabama-Birmingham,,37,Northern Illinois,,13,22614.0,"UAB WR Xavier Ubosi, UAB NT Anthony Rush",Cheribundi,Boca Raton Bowl
+88,2017,Tue,Florida Atlantic,,50,Akron,,3,25912.0,"Florida Atlantic QB Jason Driskel, Florida Atlantic QB Azeez Al-Shaair",Cheribundi Tart Cherry,Boca Raton Bowl
+89,2016,Tue,Western Kentucky,,51,Memphis,,31,24726.0,"Western Kentucky RB Anthony Wales, Western Kentucky LB Keith Brown",,Boca Raton Bowl
+90,2015,Tue,Toledo,,32,Temple,24.0,17,25908.0,"Toledo QB Philip Ely, Toledo LB Ju'Wuan Woodley",Marmot,Boca Raton Bowl
+91,2014,Tue,Marshall,,52,Northern Illinois,,23,29419.0,QB Rakeem Cato (Marshall),,Boca Raton Bowl
+92,2021,Tue,Minnesota,,18,West Virginia,,6,21220.0,"Minnesota RB Ky Thomas, Minnesota S Tyler Nubin",Guaranteed Rate,Guaranteed Rate Bowl
+93,2019,Fri,Air Force,24.0,31,Washington State,,21,34105.0,"Air Force RB Kadin Remsberg, Air Force LB Grant Donaldson",Cheez-It,Guaranteed Rate Bowl
+94,2018,Wed,Texas Christian,,10,California,,7,33121.0,"TCU RB Sewo Olonilua, California S Jaylinn Hawkins",Cheez-It,Guaranteed Rate Bowl
+95,2017,Tue,Kansas State,,35,UCLA,,17,32859.0,"Kansas State QB Alex Delton, Kansas State S Denzel Goolsby",,Guaranteed Rate Bowl
+97,2015,Sat,West Virginia,,43,Arizona State,,42,39321.0,"West Virginia QB Skyler Howard, West Virginia LB Shaq Petteway",Motel 6,Guaranteed Rate Bowl
+98,2014,Fri,Oklahoma State,,30,Washington,,22,35409.0,"RB Desmond Roland (Oklahoma State), LB Seth Jacobs (Oklahoma State)",,Guaranteed Rate Bowl
+99,2013,Sat,Kansas State,,31,Michigan,,14,53284.0,"QB Jake Waters (KSU), WR Tyler Lockett (KSU), and S Dante Barnett (KSU)",Buffalo Wild Wings,Guaranteed Rate Bowl
+124,2021,Sat,Georgia State,,51,Ball State,,20,,Georgia State QB Darren Grainger,TaxAct,Camellia Bowl
+125,2020,Fri,Buffalo,,17,Marshall,,10,2512.0,Buffalo RB Kevin Marks,,Camellia Bowl
+126,2019,Sat,Arkansas State,,34,Florida International,,26,16209.0,Arkansas State WR Omar Bayless,,Camellia Bowl
+127,2018,Sat,Georgia Southern,,23,Eastern Michigan,,21,17710.0,Georgia Southern RB Shai Werts,Raycom Media,Camellia Bowl
+128,2017,Sat,Middle Tennessee State,,35,Arkansas State,,30,20612.0,Middle Tennessee LB Darius Harris,Raycom Media,Camellia Bowl
+129,2016,Sat,Appalachian State,,31,Toledo,,28,20300.0,Appalachian State QB Taylor Lamb,Raycom Media,Camellia Bowl
+130,2015,Sat,Appalachian State,,31,Ohio,,29,21395.0,Appalachian State RB Marcus Cox,Raycom Media,Camellia Bowl
+131,2014,Sat,Bowling Green State,,33,South Alabama,,28,20256.0,QB James Knapke (Bowling Green),Raycom Media,Camellia Bowl
+133,2021,Sat,Kentucky,25.0,20,Iowa,17.0,17,50769.0,Kentucky WR Wan'Dale Robinson,Vrbo,Citrus Bowl
+134,2020,Fri,Northwestern,15.0,35,Auburn,,19,15698.0,Northwestern QB Peyton Ramsey,Vrbo,Citrus Bowl
+135,2019,Wed,Alabama,9.0,35,Michigan,17.0,16,59746.0,Alabama WR Jerry Jeudy,Vrbo,Citrus Bowl
+136,2018,Tue,Kentucky,16.0,27,Penn State,13.0,24,59167.0,Kentucky RB Benny Snell Jr.,VRBO,Citrus Bowl
+137,2017,Mon,Notre Dame,14.0,21,Louisiana State,16.0,17,57726.0,Notre Dame WR Miles Boykin,Overton's,Citrus Bowl
+138,2016,Sat,Louisiana State,19.0,29,Louisville,15.0,9,46063.0,LSU RB Derrius Grace,Buffalo Wild Wings,Citrus Bowl
+139,2015,Fri,Michigan,17.0,41,Florida,19.0,7,63113.0,Michigan QB Jake Rudock,Buffalo Wild Wings,Citrus Bowl
+140,2014,Thu,Missouri,16.0,33,Minnesota,,17,48624.0,DL Markus Golden (Missouri),Buffalo Wild Wings,Citrus Bowl
+141,2013,Wed,South Carolina,8.0,34,Wisconsin,19.0,24,56629.0,QB Connor Shaw (South Carolina),Capital One,Citrus Bowl
+209,2021,Mon,Georgia,3.0,33,Alabama,1.0,18,68311.0,"Georgia QB Stetson Bennett, Georgia S Lewis Cine",,College Football Championship
+210,2020,Mon,Alabama,1.0,52,Ohio State,3.0,24,14926.0,"Alabama WR DeVonta Smith, Alabama DT Christian Barmore",,College Football Championship
+211,2019,Mon,Louisiana State,1.0,42,Clemson,3.0,25,76885.0,"LSU QB Joe Burrow, LSU LB Patrick Queen",,College Football Championship
+212,2018,Mon,Clemson,2.0,44,Alabama,1.0,16,74814.0,"Clemson QB Trevor Lawrence, Clemson CB Trayvon Mullen, Jr.",AT&T,College Football Championship
+213,2017,Mon,Alabama,4.0,26,Georgia,3.0,23,77430.0,"Alabama QB Tua Tagovailoa, Alabama DT Da'Ron Payne",AT&T,College Football Championship
+214,2016,Mon,Clemson,3.0,35,Alabama,1.0,31,74512.0,"Clemson QB Deshaun Watson, Clemson LB Ben Boulware",AT&T,College Football Championship
+215,2015,Mon,Alabama,2.0,45,Clemson,1.0,40,75765.0,"Alabama TE OJ Howard, Alabama SS Eddie Jackson",,College Football Championship
+216,2014,Mon,Ohio State,5.0,42,Oregon,3.0,20,85689.0,"RB Ezekiel Elliott, Ohio State, S Tyvis Powell, Ohio State",AT&T,College Football Championship
+217,2021,Fri,Alabama,1.0,27,Cincinnati,4.0,6,76313.0,"Alabama RB Brian Robinson, Alabama LB Will Anderson Jr.",Goodyear,Cotton Bowl
+218,2020,Wed,Oklahoma,8.0,55,Florida,10.0,20,17323.0,"Oklahoma RB Rhamondre Stevenson, Oklahoma DB Tre Norwood",Goodyear,Cotton Bowl
+219,2019,Sat,Penn State,13.0,53,Memphis,15.0,39,54828.0,"Penn State RB Journey Brown, Penn State LB Micah Parsons",Goodyear,Cotton Bowl
+220,2018,Sat,Clemson,2.0,30,Notre Dame,3.0,3,72183.0,"Clemson QB Trevor Lawrence, Clemson DE Austin Bryant",Goodyear,Cotton Bowl
+221,2017,Fri,Ohio State,5.0,24,Southern California,8.0,7,67510.0,"Ohio State QB JT Barrett, Ohio State S Damon Webb",Goodyear,Cotton Bowl
+222,2016,Mon,Wisconsin,8.0,24,Western Michigan,12.0,16,59615.0,"Wisconsin TE Troy Fumagalli, Wisconsin LB T.J. Edwards",Goodyear,Cotton Bowl
+223,2015,Thu,Alabama,2.0,38,Michigan State,3.0,0,82812.0,"Alabama QB Jake Coker, Alabama CB Cyrus Jones",Goodyear,Cotton Bowl
+224,2014,Thu,Michigan State,7.0,42,Baylor,4.0,41,71464.0,"QB Bryce Petter (Baylor), LB Taylor Young (Baylor)",Goodyear,Cotton Bowl
+225,2013,Fri,Missouri,9.0,41,Oklahoma State,13.0,31,72690.0,RB Henry Josey (Missouri),AT&T,Cotton Bowl
+303,2021,Fri,Coastal Carolina,,47,Northern Illinois,,41,9784.0,Coastal Carolina QB Grayson McCall,Tailgreeter,Cure Bowl
+304,2020,Sat,Liberty,23.0,37,Coastal Carolina,9.0,34,4488.0,Liberty QB Malik Willis,FBC Mortgage,Cure Bowl
+305,2019,Sat,Liberty,,23,Georgia Southern,,16,18158.0,Liberty DE Jessie Lemonier,FBC Mortgage,Cure Bowl
+306,2018,Sat,Tulane,,41,Louisiana,,24,19066.0,Tulane RB Darius Bradwell,AutoNation,Cure Bowl
+307,2017,Sat,Georgia State,,27,Western Kentucky,,17,19585.0,Georgia State QB Conner Manning,AutoNation,Cure Bowl
+308,2016,Sat,Arkansas State,,31,Central Florida,,13,27213.0,Arkansas St. WR Kendall Sanders,AutoNation,Cure Bowl
+310,2021,Thu,South Carolina,,38,North Carolina,,21,45520.0,South Carolina WR Dakereon Joyner,Duke's Mayonnaise,Duke's Mayo Bowl
+311,2020,Wed,Wisconsin,,42,Wake Forest,,28,1500.0,Wisconsin LB Jack Sanborn,,Duke's Mayo Bowl
+312,2021,Tue,Wyoming,,52,Kent State,,38,10217.0,Wyoming QB Levi Williams,Idaho Potato Commission,Famous Idaho Potato Bowl
+313,2020,Tue,Nevada,,38,Tulane,,27,0.0,Nevada QB Carson Strong,Idaho Potato Commission,Famous Idaho Potato Bowl
+314,2019,Fri,Ohio,,30,Nevada,,21,13611.0,Ohio QB Nathan Rourke,Idaho Potato Commission,Famous Idaho Potato Bowl
+315,2018,Fri,Brigham Young,,49,Western Michigan,,18,18711.0,BYU QB Zach Wilson,Idaho Potato Commission,Famous Idaho Potato Bowl
+316,2017,Fri,Wyoming,,37,Central Michigan,,14,16512.0,Wyoming QB Josh Allen,Idaho Potato Commission,Famous Idaho Potato Bowl
+317,2016,Thu,Idaho,,61,Colorado State,,50,24975.0,Idaho QB Matt Linehan,Idaho Potato Commission,Famous Idaho Potato Bowl
+318,2015,Tue,Akron,,23,Utah State,,21,18876.0,Akron K Robert Stein,Idaho Potato Commission,Famous Idaho Potato Bowl
+337,2021,Sat,Oklahoma State,9.0,37,Notre Dame,5.0,35,49550.0,"Oklahoma State QB Spencer Sanders, Oklahoma State LB Malcolm Rodriguez",PlayStation,Fiesta Bowl
+338,2020,Sat,Iowa State,12.0,34,Oregon,25.0,17,0.0,"Iowa State QB Brock Purdy, Iowa State LB O'Rien Vance",PlayStation,Fiesta Bowl
+339,2019,Sat,Clemson,3.0,29,Ohio State,2.0,23,71330.0,"Clemson QB Trevor Lawrence, Clemson LB Chad Smith",PlayStation,Fiesta Bowl
+340,2018,Tue,Louisiana State,11.0,40,Central Florida,7.0,32,57246.0,"LSU QB Joe Burrow, LSU DL Rashard Lawrence",PlayStation,Fiesta Bowl
+341,2017,Sat,Penn State,9.0,35,Washington,12.0,28,61842.0,"Penn State QB Trace McSorley, Penn State S Marcus Allen",PlayStation,Fiesta Bowl
+342,2016,Sat,Clemson,3.0,31,Ohio State,2.0,0,71279.0,"Clemson QB Deshaun Watson, Clemson DE Clelin Ferrell",Playstation,Fiesta Bowl
+343,2015,Fri,Ohio State,7.0,44,Notre Dame,8.0,28,71123.0,"OSU QB JT Barrett, OSU CB Eli Apple",BattleFrog,Fiesta Bowl
+345,2013,Wed,Central Florida,15.0,52,Baylor,6.0,42,65172.0,"QB Blake Bortles (UCF), LB Terrance Plummer (UCF)",Tostitos,Fiesta Bowl
+388,2021,Tue,San Diego State,,38,Texas-San Antonio,24.0,24,15801.0,"SDSU WR Jesse Matthews, SDSU S CJ Baskerville",Tropical Smoothie Cafe,Frisco Bowl
+389,2019,Fri,Kent State,,51,Utah State,,41,12120.0,"Kent State QB Dustin Crum, Kent State DB Qwuantrezz Knight",Tropical Smoothie Cafe,Frisco Bowl
+390,2018,Wed,Ohio,,27,San Diego State,,0,11029.0,"Ohio RB AJ Ouellette, Ohio LB Evan Croutch",DXL,Frisco Bowl
+391,2017,Wed,Louisiana Tech,,51,Southern Methodist,,10,14419.0,"Louisiana Tech QB J'Mar Smith, Louisiana Tech CB Amik Robertson",DXL,Frisco Bowl
+392,2021,Thu,Miami,,27,North Texas,,14,11721.0,"Miami QB Brett Gabbert, Miami DB Jacquez Warren",,Frisco Football Classic
+393,2021,Fri,Wake Forest,20.0,38,Rutgers,,10,28508.0,"Wake Forest QB Sam Hartman, Rutgers QB Johnny Langan",TaxSlayer,Gator Bowl
+394,2020,Sat,Kentucky,,23,North Carolina State,24.0,21,10422.0,"Kentucky RB Asim Rose Jr., NC State RB Zonovan Knight",TaxSlayer,Gator Bowl
+395,2019,Thu,Tennessee,,23,Indiana,,22,61789.0,"Tennessee RB Eric Gray, Indiana QB Peyton Ramsey",TaxSlayer,Gator Bowl
+396,2018,Mon,Texas A&M,21.0,52,North Carolina State,,13,38206.0,Texas A&M RB Trayveon Williams,TaxSlayer,Gator Bowl
+397,2017,Sat,Mississippi State,24.0,31,Louisville,,27,41310.0,"Mississippi State S Mark McLaurin, Louisville QB Lamar Jackson",TaxSlayer,Gator Bowl
+398,2016,Sat,Georgia Tech,,33,Kentucky,,18,43102.0,"Georgia Tech RB Dedrick Mills, Kentucky QB Stephen Johnson II",TaxSlayer,Gator Bowl
+399,2015,Sat,Georgia,,24,Penn State,,17,58212.0,Georgia WR Terry Godwin,TaxSlayer,Gator Bowl
+400,2014,Fri,Tennessee,,45,Iowa,,28,56310.0,QB Joshua Dobbs (Tennessee),,Gator Bowl
+401,2013,Wed,Nebraska,,24,Georgia,23.0,19,60712.0,WR Quincy Enunwa (Nebraska),Taxslayer,Gator Bowl
+470,2021,Sat,Liberty,,56,Eastern Michigan,,20,15186.0,Liberty QB Malik Willis,LendingTree,LendingTree Bowl
+471,2020,Sat,Georgia State,,39,Western Kentucky,,21,5128.0,Georgia State QB Cornelious Brown IV,,LendingTree Bowl
+472,2019,Mon,Louisiana,,27,Miami,,17,29212.0,Louisiana QB Levi Lewis,LendingTree,LendingTree Bowl
+473,2018,Sat,Troy,,42,Buffalo,,32,31818.0,Troy QB Sawyer Smith,Dollar General,LendingTree Bowl
+474,2017,Sat,Appalachian State,,34,Toledo,,0,28706.0,Appalachian State RB Jalin Moore,Dollar General,LendingTree Bowl
+475,2016,Fri,Troy,,28,Ohio,,23,32377.0,Troy LB Justin Lucas,Dollar General,LendingTree Bowl
+476,2015,Wed,Georgia Southern,,58,Bowling Green,,27,28656.0,Georgia Southern QB Favian Upshaw,GoDaddy,LendingTree Bowl
+477,2014,Sun,Toledo,,63,Arkansas State,,44,36811.0,RB Kareem Hunt (Toledo),GoDaddy,LendingTree Bowl
+478,2013,Sun,Arkansas State,,23,Ball State,,20,36119.0,QB Fredi Knighten (Arkansas State),GoDaddy,LendingTree Bowl
+493,2021,Tue,Air Force,,31,Louisville,,28,15251.0,Air Force QB Haaziq Daniels,Servpro,First Responder Bowl
+494,2020,Sat,Louisiana,16.0,31,Texas-San Antonio,,24,3512.0,Louisiana RB Elijah Mitchell,Servpro,First Responder Bowl
+495,2019,Mon,Western Kentucky,,23,Western Michigan,,20,13164.0,Western Kentucky WR Lucky Jackson,Servpro,First Responder Bowl
+496,2017,Tue,Utah,,30,West Virginia,,14,20507.0,Utah CB Julian Blackmon,Zaxby's,First Responder Bowl
+497,2016,Tue,Army,,38,North Texas,,31,39117.0,Army QB Ahmad Bradshaw,Zaxby's,First Responder Bowl
+498,2015,Sat,Washington,,44,Southern Ole Miss,,31,20229.0,Washington RB Myles Gaskin,Zaxby's,First Responder Bowl
+499,2014,Fri,Louisiana Tech,,35,Illinois,,18,31297.0,LB Houston Bates (Louisiana Tech),Zaxby's,First Responder Bowl
+504,2021,Sat,Alabama-Birmingham,,31,Brigham Young,12.0,28,26276.0,BYU RB Tyler Allgeier,Radiance Technologies,Independence Bowl
+505,2019,Thu,Louisiana Tech,,14,Miami,,0,33129.0,"Louisiana Tech RB Justin Henderson, Louisiana Tech LB Connor Taylor",Walk-On's,Independence Bowl
+506,2018,Thu,Duke,,56,Temple,,27,27492.0,"Duke QB Daniel Jones, Temple DB Delvon Randall",Walk-On's,Independence Bowl
+507,2017,Wed,Florida State,,42,Southern Ole Miss,,13,33601.0,"Florida State QB James Blackman, Florida State DB Nate Andrews",Walk-On's,Independence Bowl
+508,2016,Mon,North Carolina State,,41,Vanderbilt,,17,28995.0,"NC State FB Jaylen Samuels, NC State LB Airius Moore",Camping World,Independence Bowl
+509,2015,Sat,Virginia Tech,,55,Tulsa,,52,31289.0,"Virginia Tech WR Isaiah Ford, Virginia Tech S Jerey Brady",Camping World,Independence Bowl
+510,2014,Sat,South Carolina,,24,Miami,,21,38242.0,"WR Pharoh Cooper (South Carolina), LB Skai Moore (South Carolina",Duck Commander,Independence Bowl
+511,2013,Tue,Arizona,,42,Boston College,,19,36917.0,"QB BJ Denker (Arizona), S William Parks (Arizona)",AdvoCare,Independence Bowl
+549,2021,Sat,Utah State,,24,Oregon State,,13,29896.0,"Utah State DE Nick Heninger, Utah State WR Deven Thompkins",Jimmy Kimmel,LA Bowl
+550,2021,Thu,Wisconsin,,20,Arizona State,,13,32515.0,Wisconsin RB Braelon Allen,SRS Distribution,Las Vegas Bowl
+551,2019,Sat,Washington,,38,Boise State,18.0,7,34197.0,Washington DB Elijah Molden,Mitsubishi Motors,Las Vegas Bowl
+552,2018,Sat,Fresno State,19.0,31,Arizona State,,20,37146.0,Fresno State RB Ronnie Rivers,Mitsubishi Motors,Las Vegas Bowl
+553,2017,Sat,Boise State,25.0,38,Oregon,,28,36432.0,Boise State WR Cedric Wilson,,Las Vegas Bowl
+555,2015,Sat,Utah,20.0,35,Brigham Young,,28,42213.0,Utah DB Tevin Carter,Royal Purple,Las Vegas Bowl
+556,2014,Sat,Utah,23.0,45,Colorado State,,10,33067.0,QB Travis Wilson (Utah),Royal Purple,Las Vegas Bowl
+579,2021,Tue,Texas Tech,,34,Mississippi State,,7,48615.0,Texas Tech QB Donovan Smith,AutoZone,Liberty Bowl
+580,2020,Thu,West Virginia,,24,Army,,21,8187.0,West Virginia WR T.J. Simmons,AutoZone,Liberty Bowl
+581,2019,Tue,Navy,21.0,20,Kansas State,,17,50515.0,Navy QB Malcolm Perry,AutoZone,Liberty Bowl
+582,2018,Mon,Oklahoma State,,38,Missouri,24.0,33,51587.0,Oklahoma State QB Taylor Cornelius,AutoZone,Liberty Bowl
+583,2017,Sat,Iowa State,,21,Memphis,19.0,20,57266.0,Iowa State WR Allen Lazard,AutoZone,Liberty Bowl
+584,2016,Fri,Georgia,,31,Texas Christian,,23,51087.0,Georgia DT Trenton Thompson,AutoZone,Liberty Bowl
+585,2015,Sat,Arkansas,,45,Kansas State,,23,61136.0,Arkansas RB Alex Collins,AutoZone,Liberty Bowl
+586,2014,Mon,Texas A&M,,45,West Virginia,,37,51282.0,QB Kyle Allen (Texas A&M),Autozone,Liberty Bowl
+587,2013,Tue,Mississippi State,,44,Rice,,7,57846.0,QB Dak Prescott (Mississippi State),AutoZone,Liberty Bowl
+642,2021,Tue,Kansas State,,42,Louisiana State,,20,52207.0,Kansas State QB Skylar Thompson,TaxAct,Texas Bowl
+643,2019,Fri,Texas A&M,,24,Oklahoma State,25.0,21,68415.0,Texas A&M QB Kellen Mond,Academy Sports + Outdoors,Texas Bowl
+644,2018,Thu,Baylor,,45,Vanderbilt,,38,51104.0,Baylor QB Charlie Brewer,Academy Sports + Outdoors,Texas Bowl
+645,2017,Wed,Texas,,33,Missouri,,16,67820.0,Texas P Michael Dickson,Academy Sports + Outdoors,Texas Bowl
+646,2016,Wed,Kansas State,,33,Texas A&M,,28,71054.0,KSU QB Jesse Ertz,AdvoCare V100,Texas Bowl
+647,2015,Tue,Louisiana State,22.0,56,Texas Tech,,27,71054.0,LSU RB Leonard Fournette,AdvoCare V100,Texas Bowl
+648,2014,Mon,Arkansas,,31,Texas,,7,71115.0,QB Brandon Allen (Arkansas),,Texas Bowl
+656,2021,Thu,Purdue,,48,Tennessee,,45,69489.0,Purdue WR Broc Thompson,TransPerfect,Music City Bowl
+657,2019,Mon,Louisville,,38,Mississippi State,,28,46850.0,Louisville QB Micale Cunningham,Franklin American Mortgage,Music City Bowl
+658,2018,Fri,Auburn,,63,Purdue,,14,59024.0,Auburn QB Jarrett Stidham,Franklin American Mortgage,Music City Bowl
+659,2017,Fri,Northwestern,20.0,24,Kentucky,,23,48675.0,Northwestern RB Justin Jackson,Franklin American Mortgage,Music City Bowl
+660,2016,Fri,Tennessee,,38,Nebraska,24.0,24,68496.0,Tennessee QB Joshua Dobbs,Franklin American Mortgage,Music City Bowl
+661,2015,Wed,Louisville,,27,Texas A&M,,21,50478.0,Louisville QB Lamar Jackson,Franklin American Mortgage,Music City Bowl
+662,2014,Tue,Notre Dame,,31,Louisiana State,22.0,28,60149.0,QB Malik Zaire (Notre Dame),Franklin Mortgage,Music City Bowl
+663,2013,Mon,Ole Miss,,25,Georgia Tech,,17,52125.0,QB Bo Wallace (Ole Miss),Franklin American Mortgage,Music City Bowl
+679,2021,Mon,Tulsa,,30,Old Dominion,,17,6557.0,Tulsa QB Davis Brin,,Myrtle Beach Bowl
+680,2020,Mon,Appalachian State,,56,North Texas,,28,5000.0,Appalachian State RB Camerun Peoples,,Myrtle Beach Bowl
+681,2021,Sat,Fresno State,,31,Texas-El Paso,,24,16422.0,"Fresno State RB Jordan Mims, Fresno State DB Elijah Gates",PUBG Mobile,New Mexico Bowl
+682,2020,Thu,Hawaii,,28,Houston,,14,2060.0,"Hawaii WR Calvin Turner, Hawaii LB Darius Muasau",,New Mexico Bowl
+683,2019,Sat,San Diego State,,48,Central Michigan,,11,18823.0,"SDSU RB Jordan Byrd, SDSU WR Jesse Matthews, SDSU LB Kyahva Tezino",,New Mexico Bowl
+684,2018,Sat,Utah State,,52,North Texas,,13,25387.0,"Utah State QB Jordan Love, Utah State DB DJ Williams",,New Mexico Bowl
+685,2017,Sat,Marshall,,31,Colorado State,,28,26087.0,"Marshall WR Tyre Brady, Marshall LB Channing Hames",Gildan,New Mexico Bowl
+686,2016,Sat,New Mexico,,23,Texas-San Antonio,,20,29688.0,"New Mexico QB Lamar Jordan, New Mexico LB Dakota Cox",Gildan,New Mexico Bowl
+687,2015,Sat,Arizona,,45,New Mexico,,37,30289.0,"Arizona QB Anu Solomon, Arizona LB Scooby Wright III",Gildan,New Mexico Bowl
+688,2014,Sat,Utah State,,21,Texas-El Paso,,6,28725.0,"QB Kent Myers (Utah State), LB Zach Vigil (Utah State)",Gildan,New Mexico Bowl
+689,2013,Sat,Colorado State,,48,Washington State,,45,27104.0,"QB Connor Halliday (WSU), DE Shaquil Barrett (CSU)",Gildan,New Mexico Bowl
+697,2021,Sat,Louisiana,16.0,36,Marshall,,21,21642.0,Louisiana QB Levi Lewis,R+L Carriers,New Orleans Bowl
+698,2020,Wed,Georgia Southern,,38,Louisiana Tech,,3,3000.0,Georgia Southern QB Shai Werts,R+L Carriers,New Orleans Bowl
+699,2019,Sat,Appalachian State,20.0,31,Alabama-Birmingham,,17,21202.0,Appalachian State RB Darrynton Evans,R+L Carriers,New Orleans Bowl
+700,2018,Sat,Appalachian State,,45,Middle Tennessee State,,13,23942.0,Appalachian State QB Zac Thomas,R+L Carriers,New Orleans Bowl
+701,2017,Sat,Troy,,50,North Texas,,30,24904.0,Troy QB Brandon Silvers,R+L Carriers,New Orleans Bowl
+702,2016,Sat,Southern Ole Miss,,28,Louisiana,,21,35061.0,Southern Miss WR Allenzae Staggers,R+L Carriers,New Orleans Bowl
+703,2015,Sat,Louisiana Tech,,47,Arkansas State,,28,32487.0,Louisiana Tech RB Kenneth Dixon,R+L Carriers,New Orleans Bowl
+705,2013,Sat,Louisiana,,24,Tulane,,21,54728.0,RB Orleans Darkwa (Tulane),R+L Carriers,New Orleans Bowl
+718,2021,Fri,Georgia,3.0,34,Michigan,2.0,11,66839.0,"Georgia QB Stetson Bennett, Georgia CB Derion Kendrick",Capital One,Orange Bowl
+719,2020,Sat,Texas A&M,5.0,41,North Carolina,14.0,27,13737.0,Texas A&M RB Devon Achane,Capital One,Orange Bowl
+720,2019,Mon,Florida,6.0,36,Virginia,,28,65157.0,Florida RB Lamical Perine,Capital One,Orange Bowl
+721,2018,Sat,Alabama,1.0,45,Oklahoma,4.0,34,66203.0,"Alabama QB Tua Tagovailoa, Alabama S Xavier McKinney",Capital One,Orange Bowl
+722,2017,Sat,Wisconsin,6.0,34,Miami,,24,65326.0,Wisconsin QB Alex Hornibrook,Capital One,Orange Bowl
+723,2016,Fri,Florida State,10.0,33,Michigan,6.0,32,65326.0,FSU RB Dalvin Cook,Capital One,Orange Bowl
+724,2015,Thu,Clemson,1.0,37,Oklahoma,4.0,17,67615.0,"Clemson QB Deshaun Watson, Clemson LB Ben Boulware",Capital One,Orange Bowl
+725,2014,Wed,Georgia Tech,10.0,49,Mississippi State,8.0,34,58211.0,QB Justin Thomas (Georgia Tech),Capital One,Orange Bowl
+726,2013,Fri,Clemson,12.0,40,Ohio State,7.0,35,72080.0,WR Sammy Watkins (Clemson),Discover Financial,Orange Bowl
+806,2021,Sat,Arkansas,22.0,24,Penn State,,10,49577.0,Arkansas QB K.J. Jefferson,Outback Steakhouse,Outback Bowl
+807,2020,Sat,Ole Miss,,26,Indiana,7.0,20,11025.0,Ole Miss QB Matt Corral,,Outback Bowl
+808,2019,Wed,Minnesota,16.0,31,Auburn,9.0,24,45652.0,Minnesota WR Tyler Johnson,Outback Steakhouse,Outback Bowl
+809,2018,Tue,Iowa,,27,Mississippi State,18.0,22,40518.0,Iowa WR Nick Easley,Outback Steakhouse,Outback Bowl
+810,2017,Mon,South Carolina,,26,Michigan,,19,45687.0,South Carolina QB Jake Bentley,Outback Steakhouse,Outback Bowl
+811,2016,Mon,Florida,20.0,30,Iowa,21.0,3,51119.0,Florida DB Chauncey Gardner,Outback Steakhouse,Outback Bowl
+812,2015,Fri,Tennessee,,45,Northwestern,12.0,6,53202.0,Tennessee RB Jalen Hurd,,Outback Bowl
+813,2014,Thu,Wisconsin,17.0,34,Auburn,19.0,31,44023.0,RB Melvin Gordon (Wisconsin),,Outback Bowl
+814,2013,Wed,Louisiana State,14.0,21,Iowa,,14,51296.0,RB Jeremy Hill (LSU),Outback Steakhouse,Outback Bowl
+842,2021,Thu,Michigan State,11.0,31,Pittsburgh,13.0,21,41230.0,"Michigan State WR Jayden Reed, Michigan State LB Cal Haladay",Chick-fil-A,Peach Bowl
+843,2020,Fri,Georgia,11.0,24,Cincinnati,6.0,21,15301.0,"Georgia K Jack Podlesny, Georgia LB Azeez Ojulari",Chick-fil-A,Peach Bowl
+844,2019,Sat,Louisiana State,1.0,63,Oklahoma,4.0,28,78347.0,"LSU QB Joe Burrow, LSU LB K'Lavon Chaisson",Chick-fil-A,Peach Bowl
+845,2018,Sat,Florida,10.0,41,Michigan,8.0,15,74006.0,Florida QB Feleipe Franks,Chick-fil-A,Peach Bowl
+846,2017,Mon,Central Florida,10.0,34,Auburn,7.0,27,71109.0,"Central Florida QB McKenzie Milton, Central Florida LB Shaquem Griffin",Chick-fil-A,Peach Bowl
+847,2016,Sat,Alabama,1.0,24,Washington,4.0,7,75996.0,"Alabama RB Bo Scarbrough, Alabama LB Ryan Anderson",Chick-fil-A,Peach Bowl
+848,2015,Thu,Houston,14.0,38,Florida State,9.0,24,71007.0,"Houston QB Greg Ward, Jr., Houston CB William Jackson III",Chick-fil-A,Peach Bowl
+849,2014,Wed,Texas Christian,6.0,42,Ole Miss,9.0,3,65706.0,"QB Trevone Boykin (TCU), DE James McFarland (TCU)",Chick-Fil-A,Peach Bowl
+850,2013,Tue,Texas A&M,20.0,52,Duke,22.0,48,67496.0,"QB Johnny Manziel (Texas A&M), DB Toney Hurd Jr. (Texas A&M)",Chick-fil-A,Peach Bowl
+896,2021,Wed,Maryland,,54,Virginia Tech,,10,29653.0,Maryland QB Taulia Tagovailoa,New Era,Pinstripe Bowl
+897,2019,Fri,Michigan State,,27,Wake Forest,,21,36895.0,Michigan State QB Brian Lewerke,New Era,Pinstripe Bowl
+898,2018,Thu,Wisconsin,,35,Miami,,3,37821.0,Wisconsin RB Jonathan Taylor,New Era,Pinstripe Bowl
+899,2017,Wed,Iowa,,27,Boston College,,20,37667.0,Iowa RB Akrum Wadley,New Era,Pinstripe Bowl
+900,2016,Wed,Northwestern,,31,Pittsburgh,22.0,24,37918.0,Northwestern RB Justin Jackson,New Era,Pinstripe Bowl
+901,2015,Sat,Duke,,44,Indiana,,41,37218.0,"Duke QB Thomas Sirk, Duke RB Shaun Wilson",New Era,Pinstripe Bowl
+902,2014,Sat,Penn State,,31,Boston College,,30,49012.0,QB Christian Hackenberg (Penn State),New Era,Pinstripe Bowl
+903,2013,Sat,Notre Dame,25.0,29,Rutgers,,16,47122.0,OT Zack Martin (Notre Dame),New Era,Pinstripe Bowl
+907,2021,Mon,Western Michigan,,52,Nevada,,24,22321.0,Western Michigan RB Sean Tyler,Ford Motor Company,Quick Lane Bowl
+908,2019,Thu,Pittsburgh,,34,Eastern Michigan,,30,34765.0,Pittsburgh QB Kenny Pickett,Quick Lane,Quick Lane Bowl
+909,2018,Wed,Minnesota,,34,Georgia Tech,,10,27228.0,Minnesota RB Mohamed Ibrahim,Quick Lane,Quick Lane Bowl
+910,2017,Tue,Duke,,36,Northern Illinois,,14,20211.0,Duke QB Daniel Jones,Quick Lane,Quick Lane Bowl
+911,2016,Mon,Boston College,,36,Maryland,,30,19117.0,BC Defensive Line,Ford,Quick Lane Bowl
+912,2015,Mon,Minnesota,,21,Central Michigan,,14,34217.0,Minnesota QB Mitch Leidner,,Quick Lane Bowl
+913,2014,Fri,Rutgers,,40,North Carolina,,21,23876.0,RB Josh Hicks (MVP),,Quick Lane Bowl
+914,2021,Sat,Ohio State,7.0,48,Utah,10.0,45,87842.0,Ohio State WR Jaxon Smith-Njigba,Capital One,Rose Bowl
+915,2020,Fri,Alabama,1.0,31,Notre Dame,4.0,14,18373.0,"Alabama WR DeVonta Smith, Alabama CB Patrick Surtain II",Capital One,Rose Bowl
+916,2019,Wed,Oregon,7.0,28,Wisconsin,11.0,27,90462.0,"Oregon QB Justin Herbert, Oregon S Brady Breeze",Northwestern Mutual,Rose Bowl
+917,2018,Tue,Ohio State,5.0,28,Washington,9.0,23,91853.0,"Ohio State QB Dwayne Haskins, Ohio State S Brendon White",Northwestern Mutual,Rose Bowl
+918,2017,Mon,Georgia,3.0,54,Oklahoma,2.0,48,92844.0,"Georgia RB Sony Michel, Georgia LB Roquan Smith",Northwestern Mutual,Rose Bowl
+919,2016,Mon,Southern California,9.0,52,Penn State,5.0,49,95128.0,"USC QB Sam Darnold, USC DT Stevie Tu'ikolovatu",Northwestern Mutual,Rose Bowl
+920,2015,Fri,Stanford,5.0,45,Iowa,6.0,16,94268.0,"Stanford RB Christian McCaffrey, Stanford DE Aziz Shittu",Northwestern Mutual,Rose Bowl
+921,2014,Thu,Oregon,3.0,59,Florida State,2.0,20,91322.0,"QB Marcus Mariota (Oregon), LB Tony Washington (Oregon)",Northwestern Mutual,Rose Bowl
+922,2013,Wed,Michigan State,4.0,24,Stanford,5.0,20,95173.0,QB Connor Cook (Michigan State),Vizio,Rose Bowl
+1022,2021,Wed,Clemson,19.0,20,Iowa State,,13,39051.0,Clemson DB Mario Goodrich,Cheez-It,Cheez-It Bowl
+1023,2020,Tue,Oklahoma State,,37,Miami,,34,0.0,Oklahoma State QB Spencer Sanders,Cheez-It,Cheez-It Bowl
+1024,2019,Sat,Notre Dame,14.0,33,Iowa State,,9,46948.0,Notre Dame WR Chase Claypool,Camping World,Cheez-It Bowl
+1025,2018,Fri,Syracuse,17.0,34,West Virginia,15.0,18,41125.0,Syracuse QB Eric Dungey,Camping World,Cheez-It Bowl
+1026,2017,Thu,Oklahoma State,17.0,30,Virginia Tech,22.0,21,39610.0,Oklahoma State QB Mason Rudolph,Camping World,Cheez-It Bowl
+1027,2016,Wed,Miami,,31,West Virginia,14.0,14,48625.0,Miami QB Brad Kaaya,Russell Athletic,Cheez-It Bowl
+1028,2015,Tue,Baylor,18.0,49,North Carolina,10.0,38,40418.0,Baylor RB Johnny Jefferson,Russell Athletic,Cheez-It Bowl
+1029,2014,Mon,Clemson,18.0,40,Oklahoma,,6,40071.0,QB Cole Stoudt (Clemson),Russell Athletic,Cheez-It Bowl
+1030,2013,Sat,Louisville,18.0,36,Miami,,9,51100.0,QB Teddy Bridgewater (Louisville),Russell Athletic,Cheez-It Bowl
+1054,2021,Sat,Baylor,6.0,21,Ole Miss,8.0,7,66479.0,Baylor LB Ron Snodgrass,Allstate,Sugar Bowl
+1055,2020,Fri,Ohio State,3.0,49,Clemson,2.0,28,3000.0,"Ohio State QB Justin Fields, Ohio State LB Tuf Borland",Allstate,Sugar Bowl
+1056,2019,Wed,Georgia,5.0,26,Baylor,8.0,14,55211.0,Georgia WR George Pickens,Allstate,Sugar Bowl
+1057,2018,Tue,Texas,14.0,28,Georgia,6.0,21,71449.0,Texas QB Sam Ehlinger,Allstate,Sugar Bowl
+1058,2017,Mon,Alabama,4.0,24,Clemson,1.0,6,72360.0,"Alabama QB Jalen Hurts, Alabama DT Da'Ron Payne",Allstate,Sugar Bowl
+1059,2016,Mon,Oklahoma,7.0,35,Auburn,17.0,19,54077.0,Oklahoma QB Baker Mayfield,Allstate,Sugar Bowl
+1060,2015,Fri,Ole Miss,16.0,48,Oklahoma State,13.0,20,72117.0,Mississippi QB Chad Kelly,Allstate,Sugar Bowl
+1061,2014,Thu,Ohio State,5.0,42,Alabama,1.0,35,74682.0,"RB Ezekiel Elliott (Ohio State), LB Darron Lee (Ohio State)",Allstate,Sugar Bowl
+1062,2013,Thu,Oklahoma,11.0,45,Alabama,3.0,31,70473.0,QB Trevor Knight (Oklahoma),Allstate,Sugar Bowl
+1142,2021,Fri,Central Michigan,,24,Washington State,,21,34540.0,Central Michigan RB Lew Nichols III,Tony the Tiger,Sun Bowl
+1143,2019,Tue,Arizona State,,20,Florida State,,14,42412.0,Arizona State QB Jayden Daniels,Tony the Tiger,Sun Bowl
+1144,2018,Mon,Stanford,,14,Pittsburgh,,13,40680.0,Stanford RB Cameron Scarlett,Hyundai,Sun Bowl
+1145,2017,Fri,North Carolina State,,52,Arizona State,,31,39897.0,NC State RB Nyheim Hines,Hyundai,Sun Bowl
+1146,2016,Fri,Stanford,16.0,25,North Carolina,,23,42166.0,Stanford DE Soloman Thomas,Hyundai,Sun Bowl
+1147,2015,Sat,Washington State,,20,Miami,,14,41180.0,Washington St. QB Luke Falk,Hyundai,Sun Bowl
+1148,2014,Sat,Arizona State,15.0,36,Duke,,31,47809.0,RB Demario Richard (Arizona State),Hyundai,Sun Bowl
+1149,2013,Tue,UCLA,17.0,42,Virginia Tech,,12,47912.0,"QB Brett Hundley (UCLA), LB Jordan Zumwalt (UCLA)",Hyundai,Sun Bowl
+1262,2020,Thu,Ball State,,34,San Jose State,19.0,13,0.0,Ball State S Bryce Cosby,Offerpad,Arizona Bowl
+1263,2019,Tue,Wyoming,,38,Georgia State,,17,36892.0,"Wyoming RB Xazavian Valladay, Wyoming S Alijah Halliburton",Nova Home Loans,Arizona Bowl
+1264,2018,Sat,Nevada,,16,Arkansas State,,13,32368.0,"Nevada QB Ty Gangi, Arkansas State S BJ Edmonds",Nova Home Loans,Arizona Bowl
+1270,2013,Mon,Florida State,1.0,34,Auburn,2.0,31,94208.0,"QB Jameis Winston (FSU), DB PJ Williams (FSU)",Vizio,BCS Championship
+1278,2019,Tue,Kentucky,,37,Virginia Tech,,30,44138.0,Kentucky QB Lynn Bowden Jr.,Belk,Belk Bowl
+1279,2018,Sat,Virginia,,28,South Carolina,,0,48263.0,Virginia WR Olamide Zaccheaus,Belk,Belk Bowl
+1280,2017,Fri,Wake Forest,,55,Texas A&M,,52,32784.0,Wake Forest QB John Wolford,Belk,Belk Bowl
+1281,2016,Thu,Virginia Tech,18.0,35,Arkansas,,24,73778.0,Va Tech WR Cam Phillips,Belk,Belk Bowl
+1282,2015,Wed,Mississippi State,,51,North Carolina State,,28,46423.0,Mississipi State QB Dak Prescott,Belk,Belk Bowl
+1283,2014,Tue,Georgia,13.0,37,Louisville,20.0,14,45671.0,RB Nick Chubb (Georgia),,Belk Bowl
+1284,2013,Sat,North Carolina,,39,Cincinnati,,17,45211.0,PR Ryan Switzer (UNC),Belk,Belk Bowl
+1346,2020,Wed,Memphis,,25,Florida Atlantic,,10,2979.0,Memphis QB Brady White,,Montgomery Bowl
+1347,2019,Mon,California,,35,Illinois,,20,34177.0,"California QB Chase Garbers, California DE Zeandae Johnson",Redbox,Redbox Bowl
+1348,2018,Mon,Oregon,,7,Michigan State,,6,30212.0,"Oregon WR Dillon Mitchell, Michigan State CB Josiah Scott",Redbox,Redbox Bowl
+1349,2017,Wed,Purdue,,38,Arizona,,35,28436.0,"Purdue QB Elijah Sindelar, Purdue LB Ja'Whaun Bentley",Foster Farms,Redbox Bowl
+1350,2016,Wed,Utah,,26,Indiana,,24,27608.0,"Utah RB Joe Williams, Indiana LB Tegray Scales",,Redbox Bowl
+1351,2015,Sat,Nebraska,,37,UCLA,,29,33527.0,"Nebraska QB Tommy Armstrong, Jr., UCLA DB Jaleel Wadood",,Redbox Bowl
+1352,2014,Tue,Stanford,,45,Maryland,,21,34780.0,"QB Kevin Hogan (Stanford), LB James Vaughters (Stanford)",,Redbox Bowl
+1353,2013,Fri,Washington,,31,Brigham Young,,16,34136.0,"RB Bishop Sankey (Washington), DE Hau'oli Kikaha (Washington)",Kraft,Redbox Bowl
+1387,2019,Tue,Hawaii,,38,Brigham Young,,34,21582.0,"Hawaii QB Cole McDonald, BYU QB Zach Wilson",SoFi,Hawaii Bowl
+1388,2018,Sat,Louisiana Tech,,31,Hawaii,,14,30911.0,"Louisiana Tech DE Jaylon Ferguson, Hawaii DE Kendall Hune",SoFi,Hawaii Bowl
+1389,2017,Sun,Fresno State,,33,Houston,,27,20546.0,"Fresno State QB Marcus McMaryion, Houston WR Steven Dunbar",,Hawaii Bowl
+1405,2019,Fri,Iowa,19.0,49,Southern California,22.0,24,50123.0,"Iowa WR Ihmir Smith-Marsette, Iowa DE A.J. Epenesa",San Diego County Credit Union,Holiday Bowl
+1406,2018,Mon,Northwestern,,31,Utah,20.0,20,47007.0,"Northwestern QB Clayton Thorson, Northwestern S JR Pace",San Diego County Credit Union,Holiday Bowl
+1407,2017,Thu,Michigan State,18.0,42,Washington State,21.0,17,47092.0,"Michigan State QB Brian Lewerke, Michigan State LB Chris Frey Jr.",San Diego County Credit Union,Holiday Bowl
+1408,2016,Tue,Minnesota,,17,Washington State,,12,48704.0,"Minnesota RB Rodney Smith, Minnesota LB Blake Cashman",National Funding,Holiday Bowl
+1409,2015,Wed,Wisconsin,23.0,23,Southern California,,21,48329.0,"Wisconsin QB Jole Stave, Wisconsin LB Jack Cichy",National Funding,Holiday Bowl
+1410,2014,Sat,Southern California,24.0,45,Nebraska,25.0,42,55789.0,"QB Cody Kessler (USC), DE Leonard Williams (USC)",National University,Holiday Bowl
+1411,2013,Mon,Texas Tech,,37,Arizona State,16.0,23,52930.0,"QB Davis Webb (Texas Tech), LB Will Smith (Texas Tech)",National University,Holiday Bowl
+1457,2013,Thu,Pittsburgh,,30,Bowling Green,,27,26259.0,RB James Conner (Pitt),Little Caesars,Little Caesars Bowl
+1475,2016,Mon,Tulsa,,55,Central Michigan,,10,15262.0,Tulsa QB Dane Evans,,Miami Beach Bowl
+1476,2015,Mon,Western Kentucky,25.0,45,South Florida,,35,21712.0,Western Kentucky QB Brandon Doughty,,Miami Beach Bowl
+1477,2014,Mon,Memphis,,55,Brigham Young,,48,36742.0,QB Paxton Lynch (Memphis),,Miami Beach Bowl
+1478,2019,Fri,North Carolina,,55,Temple,,13,24242.0,North Carolina QB Sam Howell,Northrop Grumman,Military Bowl
+1479,2018,Mon,Cincinnati,,35,Virginia Tech,,31,32832.0,Cincinnati RB Mike Warren,Northrop Grumman,Military Bowl
+1480,2017,Thu,Navy,,49,Virginia,,7,35921.0,Navy QB Zach Abey,Northrop Grumman,Military Bowl
+1481,2016,Tue,Wake Forest,,34,Temple,23.0,26,26656.0,Wake Forest LB Thomas Brown,Northrop Grumman,Military Bowl
+1482,2015,Mon,Navy,21.0,44,Pittsburgh,,28,36352.0,Navy QB Keenan Reynolds,Northrop Grumman,Military Bowl
+1483,2014,Sat,Virginia Tech,,33,Cincinnati,,17,34277.0,RB J.C. Coleman (Virginia Tech),Northrop Grumman,Military Bowl
+1484,2013,Fri,Marshall,,31,Maryland,,20,30163.0,QB Rakeem Cato (Marshall),Northrop Grumman,Military Bowl
+1500,2013,Thu,Utah State,,21,Northern Illinois,24.0,14,23408.0,"RB Joey DeMartino (Utah State), LB Jake Doughty (Utah State)",San Diego County Credit Union,Poinsettia Bowl

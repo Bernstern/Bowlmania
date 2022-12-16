@@ -1,0 +1,318 @@
+year,team0,team1,winning_team
+21,Oregon,Oklahoma,1
+20,Colorado,Texas,1
+19,Texas,Utah,0
+18,Iowa State,Washington State,1
+17,Stanford,Texas Christian,1
+16,Oklahoma State,Colorado,0
+15,Oregon,Texas Christian,1
+14,Kansas State,UCLA,1
+13,Oregon,Texas,0
+21,Army,Missouri,0
+20,Tulsa,Mississippi State,1
+18,Houston,Army,1
+17,Army,San Diego State,0
+16,Navy,Louisiana Tech,1
+14,Pittsburgh,Houston,1
+13,Navy,Middle Tennessee State,0
+21,Middle Tennessee State,Toledo,0
+19,Buffalo,Charlotte,0
+18,Florida International,Toledo,0
+17,Ohio,Alabama-Birmingham,0
+16,Old Dominion,Eastern Michigan,0
+15,Western Michigan,Middle Tennessee State,0
+14,Western Kentucky,Central Michigan,0
+21,Florida,Central Florida,1
+19,Marshall,Central Florida,1
+18,South Florida,Marshall,1
+17,Temple,Florida International,0
+16,Miami,Mississippi State,1
+15,Marshall,Connecticut,0
+14,Central Florida,North Carolina State,1
+13,East Carolina,Ohio,0
+21,Auburn,Houston,1
+19,Boston College,Cincinnati,1
+18,Wake Forest,Memphis,0
+17,South Florida,Texas Tech,0
+16,South Carolina,South Florida,1
+15,Memphis,Auburn,1
+14,East Carolina,Florida,1
+13,Vanderbilt,Houston,0
+21,Western Kentucky,Appalachian State,0
+20,Central Florida,Brigham Young,1
+19,Southern Methodist,Florida Atlantic,1
+18,Northern Illinois,Alabama-Birmingham,1
+17,Akron,Florida Atlantic,1
+16,Western Kentucky,Memphis,0
+15,Toledo,Temple,0
+14,Northern Illinois,Marshall,1
+21,West Virginia,Minnesota,1
+19,Washington State,Air Force,1
+18,Texas Christian,California,0
+17,Kansas State,UCLA,0
+15,Arizona State,West Virginia,1
+14,Washington,Oklahoma State,1
+13,Kansas State,Michigan,0
+21,Ball State,Georgia State,1
+20,Buffalo,Marshall,0
+19,Arkansas State,Florida International,0
+18,Georgia Southern,Eastern Michigan,0
+17,Arkansas State,Middle Tennessee State,1
+16,Toledo,Appalachian State,1
+15,Ohio,Appalachian State,1
+14,Bowling Green State,South Alabama,0
+21,Iowa,Kentucky,1
+20,Northwestern,Auburn,0
+19,Michigan,Alabama,1
+18,Kentucky,Penn State,0
+17,Notre Dame,Louisiana State,0
+16,Louisiana State,Louisville,0
+15,Florida,Michigan,1
+14,Minnesota,Missouri,1
+13,Wisconsin,South Carolina,1
+21,Georgia,Alabama,0
+20,Alabama,Ohio State,0
+19,Louisiana State,Clemson,0
+18,Alabama,Clemson,1
+17,Alabama,Georgia,0
+16,Alabama,Clemson,1
+15,Clemson,Alabama,1
+14,Oregon,Ohio State,1
+21,Cincinnati,Alabama,1
+20,Oklahoma,Florida,0
+19,Memphis,Penn State,1
+18,Clemson,Notre Dame,0
+17,Ohio State,Southern California,0
+16,Western Michigan,Wisconsin,1
+15,Michigan State,Alabama,1
+14,Baylor,Michigan State,1
+13,Oklahoma State,Missouri,1
+21,Northern Illinois,Coastal Carolina,1
+20,Coastal Carolina,Liberty,1
+19,Georgia Southern,Liberty,1
+18,Louisiana,Tulane,1
+17,Georgia State,Western Kentucky,0
+16,Central Florida,Arkansas State,1
+21,North Carolina,South Carolina,1
+20,Wake Forest,Wisconsin,1
+21,Wyoming,Kent State,0
+20,Tulane,Nevada,1
+19,Ohio,Nevada,0
+18,Western Michigan,Brigham Young,1
+17,Wyoming,Central Michigan,0
+16,Idaho,Colorado State,0
+15,Akron,Utah State,0
+21,Notre Dame,Oklahoma State,1
+20,Oregon,Iowa State,1
+19,Clemson,Ohio State,0
+18,Louisiana State,Central Florida,0
+17,Washington,Penn State,1
+16,Ohio State,Clemson,1
+15,Ohio State,Notre Dame,0
+13,Baylor,Central Florida,1
+21,Texas-San Antonio,San Diego State,1
+19,Kent State,Utah State,0
+18,Ohio,San Diego State,0
+17,Louisiana Tech,Southern Methodist,0
+21,Miami,North Texas,0
+21,Wake Forest,Rutgers,0
+20,North Carolina State,Kentucky,1
+19,Indiana,Tennessee,1
+18,North Carolina State,Texas A&M,1
+17,Louisville,Mississippi State,1
+16,Georgia Tech,Kentucky,0
+15,Penn State,Georgia,1
+14,Iowa,Tennessee,1
+13,Nebraska,Georgia,0
+21,Liberty,Eastern Michigan,0
+20,Georgia State,Western Kentucky,0
+19,Miami,Louisiana,1
+18,Buffalo,Troy,1
+17,Toledo,Appalachian State,1
+16,Ohio,Troy,1
+15,Bowling Green,Georgia Southern,1
+14,Arkansas State,Toledo,1
+13,Ball State,Arkansas State,1
+21,Louisville,Air Force,1
+20,Louisiana,Texas-San Antonio,0
+19,Western Michigan,Western Kentucky,1
+17,West Virginia,Utah,1
+16,Army,North Texas,0
+15,Southern Ole Miss,Washington,1
+14,Illinois,Louisiana Tech,1
+21,Brigham Young,Alabama-Birmingham,1
+19,Louisiana Tech,Miami,0
+18,Temple,Duke,1
+17,Florida State,Southern Ole Miss,0
+16,Vanderbilt,North Carolina State,1
+15,Virginia Tech,Tulsa,0
+14,Miami,South Carolina,1
+13,Arizona,Boston College,0
+21,Oregon State,Utah State,1
+21,Wisconsin,Arizona State,0
+19,Boise State,Washington,1
+18,Fresno State,Arizona State,0
+17,Oregon,Boise State,1
+15,Utah,Brigham Young,0
+14,Colorado State,Utah,1
+21,Texas Tech,Mississippi State,0
+20,West Virginia,Army,0
+19,Kansas State,Navy,1
+18,Oklahoma State,Missouri,0
+17,Iowa State,Memphis,0
+16,Georgia,Texas Christian,0
+15,Arkansas,Kansas State,0
+14,Texas A&M,West Virginia,0
+13,Mississippi State,Rice,0
+21,Louisiana State,Kansas State,1
+19,Oklahoma State,Texas A&M,1
+18,Vanderbilt,Baylor,1
+17,Texas,Missouri,0
+16,Kansas State,Texas A&M,0
+15,Texas Tech,Louisiana State,1
+14,Texas,Arkansas,1
+21,Purdue,Tennessee,0
+19,Louisville,Mississippi State,0
+18,Auburn,Purdue,0
+17,Northwestern,Kentucky,0
+16,Nebraska,Tennessee,1
+15,Louisville,Texas A&M,0
+14,Notre Dame,Louisiana State,0
+13,Georgia Tech,Ole Miss,1
+21,Old Dominion,Tulsa,1
+20,Appalachian State,North Texas,0
+21,Texas-El Paso,Fresno State,1
+20,Hawaii,Houston,0
+19,San Diego State,Central Michigan,0
+18,Utah State,North Texas,0
+17,Marshall,Colorado State,0
+16,New Mexico,Texas-San Antonio,0
+15,New Mexico,Arizona,1
+14,Texas-El Paso,Utah State,1
+13,Colorado State,Washington State,0
+21,Louisiana,Marshall,0
+20,Louisiana Tech,Georgia Southern,1
+19,Appalachian State,Alabama-Birmingham,0
+18,Appalachian State,Middle Tennessee State,0
+17,Troy,North Texas,0
+16,Southern Ole Miss,Louisiana,0
+15,Louisiana Tech,Arkansas State,0
+13,Tulane,Louisiana,1
+21,Michigan,Georgia,1
+20,Texas A&M,North Carolina,0
+19,Florida,Virginia,0
+18,Oklahoma,Alabama,1
+17,Wisconsin,Miami,0
+16,Michigan,Florida State,1
+15,Clemson,Oklahoma,0
+14,Georgia Tech,Mississippi State,0
+13,Ohio State,Clemson,1
+21,Penn State,Arkansas,1
+20,Ole Miss,Indiana,0
+19,Minnesota,Auburn,0
+18,Mississippi State,Iowa,1
+17,South Carolina,Michigan,0
+16,Florida,Iowa,0
+15,Tennessee,Northwestern,0
+14,Wisconsin,Auburn,0
+13,Iowa,Louisiana State,1
+21,Michigan State,Pittsburgh,0
+20,Cincinnati,Georgia,1
+19,Louisiana State,Oklahoma,0
+18,Michigan,Florida,1
+17,Auburn,Central Florida,1
+16,Washington,Alabama,1
+15,Houston,Florida State,0
+14,Ole Miss,Texas Christian,1
+13,Duke,Texas A&M,1
+21,Maryland,Virginia Tech,0
+19,Michigan State,Wake Forest,0
+18,Wisconsin,Miami,0
+17,Boston College,Iowa,1
+16,Pittsburgh,Northwestern,1
+15,Duke,Indiana,0
+14,Penn State,Boston College,0
+13,Notre Dame,Rutgers,0
+21,Western Michigan,Nevada,0
+19,Pittsburgh,Eastern Michigan,0
+18,Minnesota,Georgia Tech,0
+17,Northern Illinois,Duke,1
+16,Boston College,Maryland,0
+15,Minnesota,Central Michigan,0
+14,North Carolina,Rutgers,1
+21,Utah,Ohio State,1
+20,Alabama,Notre Dame,0
+19,Wisconsin,Oregon,1
+18,Washington,Ohio State,1
+17,Oklahoma,Georgia,1
+16,Southern California,Penn State,0
+15,Iowa,Stanford,1
+14,Oregon,Florida State,0
+13,Stanford,Michigan State,1
+21,Iowa State,Clemson,1
+20,Miami,Oklahoma State,1
+19,Iowa State,Notre Dame,1
+18,West Virginia,Syracuse,1
+17,Oklahoma State,Virginia Tech,0
+16,West Virginia,Miami,1
+15,North Carolina,Baylor,1
+14,Oklahoma,Clemson,1
+13,Louisville,Miami,0
+21,Ole Miss,Baylor,1
+20,Ohio State,Clemson,0
+19,Baylor,Georgia,1
+18,Texas,Georgia,0
+17,Alabama,Clemson,0
+16,Auburn,Oklahoma,1
+15,Ole Miss,Oklahoma State,0
+14,Ohio State,Alabama,0
+13,Oklahoma,Alabama,0
+21,Washington State,Central Michigan,1
+19,Florida State,Arizona State,1
+18,Stanford,Pittsburgh,0
+17,Arizona State,North Carolina State,1
+16,Stanford,North Carolina,0
+15,Miami,Washington State,1
+14,Arizona State,Duke,0
+13,Virginia Tech,UCLA,1
+20,Ball State,San Jose State,0
+19,Georgia State,Wyoming,1
+18,Nevada,Arkansas State,0
+13,Auburn,Florida State,1
+19,Kentucky,Virginia Tech,0
+18,South Carolina,Virginia,1
+17,Texas A&M,Wake Forest,1
+16,Virginia Tech,Arkansas,0
+15,Mississippi State,North Carolina State,0
+14,Georgia,Louisville,0
+13,Cincinnati,North Carolina,1
+20,Memphis,Florida Atlantic,0
+19,California,Illinois,0
+18,Oregon,Michigan State,0
+17,Purdue,Arizona,0
+16,Utah,Indiana,0
+15,UCLA,Nebraska,1
+14,Stanford,Maryland,0
+13,Brigham Young,Washington,1
+19,Brigham Young,Hawaii,1
+18,Louisiana Tech,Hawaii,0
+17,Houston,Fresno State,1
+19,Iowa,Southern California,0
+18,Northwestern,Utah,0
+17,Washington State,Michigan State,1
+16,Washington State,Minnesota,1
+15,Wisconsin,Southern California,0
+14,Nebraska,Southern California,1
+13,Arizona State,Texas Tech,1
+13,Bowling Green,Pittsburgh,1
+16,Central Michigan,Tulsa,1
+15,South Florida,Western Kentucky,1
+14,Memphis,Brigham Young,0
+19,North Carolina,Temple,0
+18,Cincinnati,Virginia Tech,0
+17,Navy,Virginia,0
+16,Wake Forest,Temple,0
+15,Pittsburgh,Navy,1
+14,Virginia Tech,Cincinnati,0
+13,Maryland,Marshall,1
+13,Northern Illinois,Utah State,1
