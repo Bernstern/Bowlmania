@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "bowlmania"
+version = "0.1.0"
+description = ""
+authors = ["Bernie Conrad <root@bernstern.dev>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+selenium = "^4.16.0"
+pandas = "^2.1.4"
+lxml = "^4.9.3"
+progressbar2 = "^4.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
