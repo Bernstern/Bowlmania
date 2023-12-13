@@ -50,7 +50,7 @@ I should probably have a confussion matrix here but I was too tired to make one.
 
 This image shows the confidence curves of all the models I evaluated :
 
-![Confidence Curves]("resources/relative_confidence.png")
+![Confidence Curves](resources/relative_confidence.png)
 
 ## Predictions
 
