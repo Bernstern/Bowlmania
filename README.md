@@ -1,34 +1,37 @@
-# Bowlmania22
-This is trying to absolutely clown some geezers in a bowl pickem. After much delibaration the final model used to produce a reasonable output is a zero mean unit variance transformation into a Gaussian Naive Bayes classifier. 
+# Bowlmania - BernGPT
 
-The transformer was chosen because some columns had a very high variance but after doing PCA there weren't many columns with high correlation. The GNBC was chosen because it is tolerant of high variance, is somewhat resistant to overfitting, and is stupid easy to implement. Not to mention performed higher than a shallow nerual network, deep neural network, random forest, and some other fanciness I played around with. 
+This is project I've done for the past few years to predict the outcomes of the NCAA bowl games. This year we heavily leveraged Hex and a very helpful python package `cfbd` to analyze the data and aggregate game data respectively.
 
 # Contributors
 
-I would like to aknowledge two of my friends and peers who helped me with this project.
+I would like to aknowledge two of my friends who helped me with this project.
 
 - [ezipe](https://github.com/ezipe)
 - [RyanD893](https://github.com/RyanD893)
 
 # Process
 
-## Data Origin
-The data is a hybrid of two Kraggle data sets:
+The whole process anchors on getting the last 10 years of CFB games and those teams stats for that year, then training a model on that data and using that model to pick the winner of future games, in this case the bowl games.
 
-- [Last 120 Years of Bowl Games](https://www.kaggle.com/datasets/mattop/college-football-bowl-games-1902-2022)
-- [Last 8 Years of Historical Team Data](https://www.kaggle.com/datasets/jeffgallini/college-football-team-stats-2019/code?resource=download&select=cfb21.csv)
+## Data Collection
 
-The latter inspired the `scripts/scrape.py` script I created to be able to scrape 2022-23 data from NCAA's stats page. 
+### Team Performance
 
-## Training 
+To get team performance data I wrote a scraper using `pandas` and `selenium` to scrape the NCAA website for the last 10 years of team performance data.
 
-The training data took the shape of the last 8 years of bowl games and the last 8 years of team data. Specifically the model was trained on a super vector composed of the all the data provided by the NCAA for each team (roughly 300 values). 
+### Game Data
 
-The test data was 20% of the training data randomly selected.
+To get game data I used the `cfbd` python package to get the last 10 years of game data. This was a lot easier than scraping the NCAA website. Huge shoutout to the creator of that package.
 
-## Predicting
+### Pre-Processing
 
-To predict this years bowl games I used the same process as the training data but used 2022-23 performace data. 
+The hardest part of pre-processing was getting normalization on team names to work, many teams have a shorthand or abbreviation that is used in the game data but not in the performance data. I ended up making some facilities in Hex to make this process easier but it was still very manual
+
+> Note that some games in the last 10 years are excluded because the performance data is not available for those teams. This is a small number of games and should not affect the model too much. Mostly D2 and D3 teams.
+
+## Training
+
+For training I made some tools in Hex to visualize model performance and confidence, and then pretty much tried a variety of pipelines and models until I found one that worked well.
 
 ## Ranking
 
@@ -36,7 +39,7 @@ Part of using `sklearn` is that it has a built in `predict_proba` function that 
 
 # Shortcomings
 
-- My model was either very confident or very unconfident in its predictions. Meaning that it was either very sure a team would win or very sure a team would lose. This is a problem because it is very hard to rank teams when there is a large gap between the most confident and least confident prediction. I am not sure how to best remedy this other than getting more performance data to be able to train on more years of bowl games. 
+- My model was either very confident or very unconfident in its predictions. Meaning that it was either very sure a team would win or very sure a team would lose. This is a problem because it is very hard to rank teams when there is a large gap between the most confident and least confident prediction. I am not sure how to best remedy this other than getting more performance data to be able to train on more years of bowl games.
 - I was interested in also making a general game predictor given how a team has performed the last 4 years (assuming some of those playesrs would still be on the team/skill carryover) but this proved beyond the scope of the project.
 
 # Results
@@ -45,54 +48,55 @@ I should probably have a confussion matrix here but I was too tired to make one.
 
 ## Testing Confidence
 
-This shows the confidence of the model both when it is right and wrong. We can see that it is very confident when it is right and wrong which is somewhat problematic and subject to future improvements.
+This image shows the confidence curves of all the models I evaluated :
 
-![Confidence](.github/train_conf.png)
+![Confidence Curves]("./resources/relative_confidence.png")
 
 ## Predictions
 
-The bolded team is my predicted winner along with how my model ranked that pick. Please excuse any goofy formating, that wa from sanitizing the data for the model.
+The bolded team is my predicted winner along with how my model ranked that pick.
 
-|rank|team 0|team 1|
-|:---:|:---:|:---:|
-|42|**florida state**|oklahoma|
-|41|**boise state**|northtexas|
-|40|**southern miss**|rice|
-|39|**wisconsin**|oklahoma state|
-|38|**maryland**|north carolina state|
-|37|**notre dame**|south carolina|
-|36|**illinois**|mississippi state|
-|35|**new mexico state**|bowling green|
-|34|**michigan**|tcu|
-|33|georgia|**ohio state**|
-|32|**utah state**|memphis|
-|31|**san jose state**|easternmich|
-|30|southern california|**tulane**|
-|29|**air force**|baylor|
-|28|texas tech|**olemiss**|
-|27|**uconn**|marshall|
-|26|nc state|**oregon**|
-|25|florida|**oregonstate**|
-|24|middle tenn|**san diego state**|
-|23|**arkansas**|kansas|
-|22|**east carolina**|coastal carolina|
-|21|syracuse|**minnesota**|
-|20|cincinnati|**louisville**|
-|19|georgia southern|**buffalo**|
-|18|**missouri**|wake forest|
-|17|**houston**|louisiana|
-|16|lsu|**purdue**|
-|15|**south alabama**|western kentucky|
-|14|ucla|**pittsburgh**|
-|13|**byu**|smu|
-|12|**miami (oh)**|uab|
-|11|toledo|**liberty**|
-|10|texas|**washington**|
-|9|**duke**|ucf|
-|8|**kentucky**|iowa|
-|7|clemson|**tennessee**|
-|6|alabama|**kansas state**|
-|5|troy|**utsa**|
-|4|fresno state|**washingtonstate**|
-|3|utah|**penn state**|
-|2|ohio|**wyoming**|
+|     | Team A             | Team B              | Projected Winner   | Ranked Confidence | Confidence % |
+| --: | :----------------- | :------------------ | :----------------- | ----------------: | -----------: |
+|   0 | ga southern        | ohio                | ohio               |                 9 |     0.591825 |
+|   1 | howard             | florida am          | florida am         |                30 |     0.794975 |
+|   2 | jacksonville state | louisiana           | jacksonville state |                36 |     0.875496 |
+|   3 | miami oh           | app state           | miami oh           |                38 |     0.891484 |
+|   4 | new mexico         | fresno state        | fresno state       |                35 |     0.868388 |
+|   5 | ucla               | boise state         | ucla               |                15 |     0.653845 |
+|   6 | california         | texas tech          | texas tech         |                 8 |      0.59097 |
+|   7 | western ky         | old dominion        | western ky         |                24 |     0.719515 |
+|   8 | utsa               | marshall            | utsa               |                37 |     0.883676 |
+|   9 | south fla          | syracuse            | south fla          |                16 |      0.65527 |
+|  10 | georgia tech       | ucf                 | georgia tech       |                13 |     0.641005 |
+|  11 | arkansas state     | niu                 | arkansas state     |                26 |     0.762537 |
+|  12 | troy               | duke                | troy               |                40 |      0.93696 |
+|  13 | georgia state      | utah state          | georgia state      |                23 |     0.708443 |
+|  14 | james madison      | air force           | james madison      |                33 |     0.823555 |
+|  15 | south alabama      | eastern mich        | south alabama      |                31 |     0.808177 |
+|  16 | utah               | northwestern        | utah               |                25 |     0.724196 |
+|  17 | coastal carolina   | san jose state      | coastal carolina   |                22 |     0.701098 |
+|  18 | bowling green      | minnesota           | bowling green      |                18 |     0.662641 |
+|  19 | texas state        | rice                | texas state        |                14 |     0.648838 |
+|  20 | kansas             | unlv                | kansas             |                 1 |     0.504707 |
+|  21 | virginia tech      | tulane              | tulane             |                39 |     0.893582 |
+|  22 | north carolina     | west virginia       | north carolina     |                28 |     0.777974 |
+|  23 | louisville         | southern california | louisville         |                41 |     0.942676 |
+|  24 | texas am           | oklahoma state      | texas am           |                 7 |     0.559571 |
+|  25 | smu                | boston college      | smu                |                42 |     0.961554 |
+|  26 | rutgers            | miami fl            | miami fl           |                 3 |      0.53502 |
+|  27 | nc state           | kansas state        | nc state           |                34 |     0.830115 |
+|  28 | arizona            | oklahoma            | arizona            |                10 |     0.604964 |
+|  29 | clemson            | kentucky            | clemson            |                27 |      0.77038 |
+|  30 | oregon state       | notre dame          | notre dame         |                 2 |     0.507549 |
+|  31 | memphis            | iowa state          | memphis            |                32 |     0.822096 |
+|  32 | missouri           | ohio state          | missouri           |                 6 |      0.55559 |
+|  33 | ole miss           | penn state          | ole miss           |                21 |     0.696878 |
+|  34 | auburn             | maryland            | maryland           |                 4 |     0.537704 |
+|  35 | georgia            | florida state       | georgia            |                 5 |       0.5452 |
+|  36 | toledo             | wyoming             | toledo             |                29 |     0.785772 |
+|  37 | wisconsin          | lsu                 | lsu                |                20 |      0.69092 |
+|  38 | iowa               | tennessee           | iowa               |                17 |     0.655844 |
+|  39 | liberty            | oregon              | liberty            |                19 |     0.664697 |
+|  40 | alabama            | michigan            | alabama            |                12 |      0.61886 |
+|  41 | texas              | washington          | texas              |                11 |     0.611484 |
