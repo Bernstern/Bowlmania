@@ -54,8 +54,6 @@ This image shows the confidence curves of all the models I evaluated :
 
 ## Predictions
 
-The bolded team is my predicted winner along with how my model ranked that pick.
-
 |     | Team A             | Team B              | Projected Winner   | Ranked Confidence | Confidence % |
 | --: | :----------------- | :------------------ | :----------------- | ----------------: | -----------: |
 |   0 | ga southern        | ohio                | ohio               |                 9 |     0.591825 |
